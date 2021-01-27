@@ -1,3 +1,3 @@
 # Calculator (2019)
 ### Practical excercise:
-Using QT Creator framework make a Calculator.
+Using QT Creator framework make a Calculator with "Standard" and "Scientific" options.
